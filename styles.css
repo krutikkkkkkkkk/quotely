@@ -41,7 +41,9 @@ body {
 }
 
 button {
+    padding: 5px;
     margin-top: 40px;
+
 }
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
